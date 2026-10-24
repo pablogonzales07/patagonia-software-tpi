@@ -35,12 +35,32 @@ El trabajo se desarrolla en cuatro entregas:
 
 - Pablo Gonzales Trebotich
 
-## Declaración de uso de inteligencia artificial
+## Declaración de Uso de Inteligencia Artificial
 
-Durante el desarrollo del trabajo se utilizó **ChatGPT** como herramienta de apoyo para comprender las consignas, organizar la información, analizar propuestas y revisar la documentación.
+Para realizar este Trabajo Práctico Integrador utilicé ChatGPT como herramienta de apoyo durante el desarrollo de las consignas.
 
-Se realizaron consultas para relacionar los contenidos estudiados en Organización Empresarial con el proyecto de Patagonia Software, especialmente en la planificación, el diseño de datos y el modelado de procesos.
+La herramienta me ayudó a interpretar los requisitos, comprender algunos conceptos del material de estudio, organizar la información y elaborar propuestas relacionadas con el sistema de gestión de clientes y proyectos de Patagonia Software.
 
-Las propuestas generadas se revisaron tomando como referencia el material de estudio de la UTN y las decisiones adoptadas en las entregas anteriores. Se realizaron ajustes para mantener la coherencia del proyecto y utilizar una redacción clara y comprensible.
+### Consultas realizadas
 
-La herramienta se utilizó como apoyo durante el proceso de aprendizaje y elaboración del trabajo, manteniendo la responsabilidad sobre el contenido presentado.
+Entre las consultas que realicé se encuentran:
+
+- Cómo representar mediante un diagrama BPMN el proceso de seguimiento de proyectos y gestión de cobros de Patagonia Software.
+- Cómo organizar un repositorio de GitHub para documentar las distintas entregas del trabajo.
+- Cómo utilizar ramas, commits y Pull Requests para registrar y revisar cambios.
+- Cómo crear un tablero en GitHub Projects y vincular historias de usuario mediante Issues.
+- Cómo establecer indicadores de control y estándares de desempeño relacionados con las metas definidas anteriormente.
+
+### Revisión y decisiones propias
+
+Durante el desarrollo del trabajo fui revisando las propuestas de ChatGPT y comparándolas con las consignas, el material de estudio y las entregas anteriores.
+
+También participé en las decisiones sobre la organización del repositorio, la documentación del proyecto, las historias de usuario y los indicadores de control.
+
+Realicé personalmente las acciones dentro de GitHub, como crear el repositorio, organizar las carpetas, subir los archivos, crear las historias de usuario y configurar el tablero de seguimiento.
+
+### Evaluación del uso de IA
+
+Considero que ChatGPT fue útil para comprender mejor las consignas y organizar el trabajo, pero sus respuestas necesitaron revisión para comprobar que fueran adecuadas al proyecto.
+
+Por ese motivo, utilicé la herramienta como apoyo y no como reemplazo del análisis personal, buscando entender las actividades realizadas y mantener la continuidad con las etapas anteriores de Patagonia Software.
